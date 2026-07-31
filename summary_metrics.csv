@@ -1,0 +1,17 @@
+Metric,Value
+rows,541
+span_minutes,90
+quaternion_coverage_percent,100
+quaternion_norm_median,0.992293839626246
+quaternion_norm_max_abs_error,0.0077396829956774
+body_rate_rms_degps,0.352359111275109
+body_rate_max_degps,4.81278400285015
+stable_rate_fraction_percent,97.5970425138632
+median_nadir_error_deg,43.8425895729684
+median_sun_error_deg,89.9674522029137
+median_gs_pointing_error_deg,101.106125407165
+visible_telemetry_samples,69
+sensor_candidate_samples,0
+geometric_access_windows,1
+sensor_limited_access_windows,0
+link_windows,0
